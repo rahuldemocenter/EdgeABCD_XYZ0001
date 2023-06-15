@@ -1,0 +1,10 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: EdgeABCD_XYZ0001
+  gitServerName: ABCD_XYZ0001
+  gitUrl: https://github.com/rahuldemocenter/EdgeABCD_XYZ0001
+  gitUsername: rahuldemocenter
+  gitToken: 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
+  gitBranch: master
